@@ -18,7 +18,7 @@ A web-based application that simulates a real campus recruitment pipeline includ
 - Fully responsive UI
 
 ## Live Demo
-(Deploy link will be added after Netlify deployment)
+https://interview-process-simulator.netlify.app/
 
 ## Author
 Anshul Narang
